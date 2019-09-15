@@ -1,0 +1,3 @@
+[submodule "rogue-cloud-client-codewind"]
+	path = rogue-cloud-client-codewind
+	url = https://github.com/sujeilyfonseca/rogue-cloud-client-codewind.git
