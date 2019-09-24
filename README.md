@@ -19,7 +19,7 @@ Codewind simplifies and enhances development in containers by extending industry
 <img height="550" width="700" alt="Supported IDEs" src="https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/images/codewind-supported-platforms.png">
 
 ## Rogue Cloud ##
-Rogue Cloud is an open-world top-down 2D multiplayer game, but unlike a traditional game where you control it with a controller, keyboard, or mouse, with Rogue Cloud you are actually writing code to control your character as it interacts with a vast, dangerous game world. Behind the scenes the code that you write is packaged into a WebSocket-based microservice, which like a traditional microservice, provides or supports a variety of cloud-native requirements.
+Rogue Cloud is an open-world top-down 2D multiplayer game. Unlike a traditional game where you control it with a controller, keyboard, or mouse, with Rouge Cloud, you actually write code to control your character as it interacts with a vast, dangerous game world. Behind the scenes, the code that you write is packaged into a WebSocket-based microservice, which like a traditional microservice, provides or supports a variety of cloud-native requirements.
 
 ### Getting Started ###
 1. [Play Rogue Cloud using Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/developing-vscode-codewind.md)
@@ -28,7 +28,7 @@ Rogue Cloud is an open-world top-down 2D multiplayer game, but unlike a traditio
 ### The Technology Behind the Game ###
 Building microservices and cloud-native applications requires tools that lets developers rapidly develop and deploy applications to the cloud.
 
-* Learn more about [Eclipse Codewind](https://www.eclipse.org/codewind/), which are the IBM's open source container-based development tools driving end-to-end delivery and rapid iteration of Java/Node/Swift/Go/Python/Docker/Appsody application development.
+* Learn more about [Eclipse Codewind](https://www.eclipse.org/codewind/), which is IBM's open source container-based development tools driving end-to-end delivery and rapid iteration of Java/Node/Swift/Go/Python/Docker/Appsody application development.
 
 Rogue Cloud is built on Open Liberty, the premier platform for building Java cloud-native applications and microservices.
 
@@ -41,9 +41,6 @@ Rogue Cloud is designed to showcase the capabilities of the Kubernetes-based **I
 
 ## Codewind Documentation ##
 For more information or to know how you can contribute to Codewind, please visit [codewind.dev](https://www.eclipse.org/codewind/gettingstarted.html)
-
-## Useful Resources ## 
-1. [Java API](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
 
 ## IBM Opportunities ##
 1. [Explore careers at IBM](https://careers.ibm.com)
