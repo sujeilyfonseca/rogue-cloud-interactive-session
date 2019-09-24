@@ -8,8 +8,8 @@ Codewind creates a folder called `codewind-workspace` within your home directory
 1. Determine the location of the **codewind-workspace** directory:
    * **Mac/Linux**: `docker inspect codewind-pfe | grep "HOST_WORKSPACE_DIRECTORY="`
      * Example: `"HOST_WORKSPACE_DIRECTORY=/home/user/codewind/codewind-workspace"` means your workspace can be found in `/home/user/codewind/codewind-workspace`
-   * **Windows**: `docker inspect codewind-pfe | find "HOST_WORKSPACE_DIRECTORY="`
-     * Example: `"HOST_WORKSPACE_DIRECTORY=C:\codewind-workspace"` means your workspace can be found in `C:\codewind-workspace`
+   * **Windows (Command Prompt)**: `docker inspect codewind-pfe | find "HOST_WORKSPACE_DIRECTORY="`
+     * Example: `"HOST_WORKSPACE_DIRECTORY=C:\\codewind-workspace"` means your workspace can be found in `C:\codewind-workspace`
 2. From within the `codewind-workspace` directory, clone the **Rogue Cloud Client** repository:
   ```
   cd <path-to-your-codewind-workspace>
@@ -31,8 +31,8 @@ Codewind creates a folder called `codewind-workspace` within your home directory
 
 2) Edit the following fields in `StartAgentServlet.java` to create a new user and password:
 ```
-public static final String USERNAME = "<specify a username here>";
-public static final String PASSWORD = "<specify a password here>";
+public static final String USERNAME = "<specify-a-username-here>";
+public static final String PASSWORD = "<specify-a-password-here>";
 ```
    * These values are to ensure that *only you* can access and control your character.
    * The username and password you specify are automatically registered when your code first begins controlling a character on the game map, and they do not have to correspond to an existing email address or account.
@@ -42,7 +42,10 @@ public static final String PASSWORD = "<specify a password here>";
 
 ## C) Next steps: Watch your agent ##
 
-To watch your agent as it interacts with the game world, right-click on the `gameclient` project in the **Codewind** view and select **Open App**.
+To watch your agent as it interacts with the game world, right-click on the `rogue-cloud-client-codewind` project in the **Codewind** view and select **Open App**.
 
 Congratulations, your character is now exploring, interacting with the game world, and earning you points on the leaderboard!
 
+
+## D) Troubleshooting ##
+If you obtain a credential (i.e., username/password) error, verify that you have provided a username and password in the StartAgentServlet class. Correct the problem, and then `Stop` and `Start`the server again.
