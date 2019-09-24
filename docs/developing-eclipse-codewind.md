@@ -16,9 +16,9 @@ Codewind creates a folder called `codewind-workspace` within your home directory
   git clone https://github.com/sujeilyfonseca/rogue-cloud-client-codewind.git
   ```
 3. Import the project into Eclipse: 
-   * Select **File** (menubar item) > **Import...**
-   * In the dialog, select **General** (tree item) > **Projects from Folder or Archive**, and click **Next >**
-   * Search for your `<path-to-your-codewind-workspace>/rogue-cloud-client-codewind` using **Directory...**
+   * Select **File** (menubar item) > **Import...** 
+   * In the dialog, select **Maven** (tree item) > **Existing Maven Projects**, and click **Next >**
+   * Search for your `<path-to-your-codewind-workspace>/rogue-cloud-client-codewind` using **Browse...**
    * Click on **Open** > **Finish**
 4. Right-click on **Codewind** > **Projects (Local)** and select **Add Existing Project...**
 5. `gameclient` or `rogue-cloud-client-codewind` should appear in the checkbox list, select it (if not already selected) and click **Next >**
