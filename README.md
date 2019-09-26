@@ -7,13 +7,13 @@
    * [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
    * [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
    * [Install Docker Compose on Linux](https://docs.docker.com/compose/install/) 
-3. Install [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/packages/release/) or [Visual Studio Code](https://code.visualstudio.com/download)
-4. Install [Codewind for Eclipse](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-eclipse-instructions.md) or [Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-vscode-instructions.md)
+3. Install [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/packages/release/) or [Visual Studio Code](https://code.visualstudio.com/download) with [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+4. Install [Codewind for Eclipse](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-eclipse-instructions.md) or [Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-vscode-instructions.md) 
 5. Import the [Rogue Cloud Client](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session#rogue-cloud) into your preferred IDE  
 
 
 ## Session Overview ##
-The Rogue Cloud is an interactive session where students can learn how to develop video games and applications hosted in local and cloud scenarios. Through the session, students can understand how to use tools to support their development environment. Moreover, they will have hands-on experience by interacting with each other and developing some features for a video game called Rogue Cloud, which is a 2D multiplayer game. Using Rogue Cloud, students will be able to create and modify game elements and see their changes real-time within the video game.
+The Rogue Cloud is an interactive session where students can learn how to develop video games and applications hosted in local and cloud scenarios. Through the session, students can understand how to use tools to support their development environment. Moreover, they will have hands-on experience by interacting with each other and developing some features for a video game called Rogue Cloud, which is a 2D multiplayer game. Using Rogue Cloud, students will be able to create and modify game aspects and see their changes in real-time within the video game.
 
 
 ## Codewind Overview ##
@@ -51,8 +51,11 @@ For more information or to know how you can contribute to Codewind, please visit
 
 
 ## IBM Opportunities ##
-1. [Explore careers at IBM](https://careers.ibm.com)
-2. [Join our Talent Network](https://www.applytracking.com/optin.aspx?c=gLO3OFtwdyqJJyUrXdmEg3BCRNgaQznN)
+1. [Join our Talent Network](http://ibm.biz/GreatMindsinSTEM)
+2. Explore Careers at IBM:
+   * [US Intern Opportunities](https://www.ibm.com/us-en/employment/internships)
+   * [US Careers](https://www.ibm.com/us-en/employment/entry_level_campus.html#)
+   * [General Careers](https://careers.ibm.com)
 
 
 ## Acknowledgements ##
