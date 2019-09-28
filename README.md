@@ -2,10 +2,17 @@
 
 
 ## Session Prerequisires ##
-1. [Git](https://git-scm.com/downloads) / [GitHub](http://github.com)
+1. [Git](https://git-scm.com/downloads) (Optional) / [GitHub](http://github.com)
 2. Docker
    * [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
+     * Mac hardware 2010 or newel model
+     * macOS 10.12 or newel version
+     * 4GB or more RAM
    * [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
+     System Requirements: 
+     * Windows 10 64-bit: Pro, Enterprise, or Education (Build 15063 or later)
+     * Hyper-V and Containers Windows features must be enabled
+     * For Docker on Windows 10 Home, there is a different process to install Docker. However, due to its complexity, during the session, students with this operating system will be provided with an alternative procedure.
    * [Install Docker Compose on Linux](https://docs.docker.com/compose/install/) 
 3. Install [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/packages/release/) or [Visual Studio Code](https://code.visualstudio.com/download) with [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 4. Install [Codewind for Eclipse](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-eclipse-instructions.md) or [Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/codewind-vscode-instructions.md) 
@@ -27,8 +34,8 @@ Rogue Cloud is an open-world top-down 2D multiplayer game. Unlike a traditional 
 
 
 ### Getting Started ###
-1. [Play Rogue Cloud using Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/developing-vscode-codewind.md)
-2. [Play Rogue Cloud using Codewind for Eclipse](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/developing-eclipse-codewind.md)
+1. [Play Rogue Cloud using Codewind for Eclipse](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/developing-eclipse-codewind.md)
+2. [Play Rogue Cloud using Codewind for VS Code](https://github.com/sujeilyfonseca/rogue-cloud-interactive-session/blob/master/docs/developing-vscode-codewind.md)
 
 
 ### The Technology Behind the Game ###
