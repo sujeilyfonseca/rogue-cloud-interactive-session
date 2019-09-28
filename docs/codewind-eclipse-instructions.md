@@ -21,7 +21,8 @@ Complete the installation:
    * Click on **Window** > **Show View** > **Other...**
    * Select **Codewind** > **Codewind Explorer**
    * Click on **Open**
-3. Double-click the **Codewind** entry in the view to finish installing Codewind (download is approximately 1 GB)
+3. Please verify that Docker is running on your computer before continuing with the following step. To start Docker, open the application and enter your account.
+4. Double-click the **Codewind** entry in the view to finish installing Codewind (download is approximately 1 GB)
 
 ## Using Codewind for Eclipse ##
 Right-click the **Local Projects** entry in the view to create new projects or add existing projects to Codewind. After a project is created or added, it displays in the **Codewind Explorer** view. Right-click the project to see the available actions.
