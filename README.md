@@ -8,8 +8,7 @@
      * Mac hardware 2010 or newel model
      * macOS 10.12 or newel version
      * 4GB or more of RAM
-   * [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
-     System Requirements: 
+   * [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) 
      * Windows 10 64-bit: Pro, Enterprise, or Education (Build 15063 or later)
      * For Docker on Windows 10 Home, there is a different process to install Docker. However, due to its complexity, during the session, students with this operating system will be provided with an alternative procedure.
    * [Install Docker Compose on Linux](https://docs.docker.com/compose/install/) 
